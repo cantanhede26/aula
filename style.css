@@ -1,0 +1,44 @@
+.photo {border-radius: 100px;
+color-interpolation-filters: linearRGB;}
+.link {color: black;
+width: 100%;
+}
+
+
+body
+{background-color: rgb(203, 203, 240)
+    ;
+max-width: 500px;
+margin: auto;}
+
+
+#title {color: rgb(17, 16, 16)
+}
+
+
+.posttitle {
+    border-top: 2px dotted ;
+    color:royalblue;
+    font-size: 15px ;
+font-style: italic;
+border-bottom: black;
+
+padding : 15px 5px 10px 15px;
+border: 15px blue;ss
+}
+
+.subtitle{color:white;
+font-size:large ;
+font-style: oblique;
+margin:0px;
+margin-bottom: 15px;}
+
+.contatos {
+    list-style-type: decimal; 
+    padding-left: 15px;
+
+}
+
+.contatos li a {
+    color: red
+}
